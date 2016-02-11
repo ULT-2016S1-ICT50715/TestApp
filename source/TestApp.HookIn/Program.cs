@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace TestApp.HookIn
 {
+
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("Hi, my name is hashem");
         }
     }
 }
