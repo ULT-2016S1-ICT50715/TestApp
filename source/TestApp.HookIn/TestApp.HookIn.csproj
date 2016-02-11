@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FB6B1517-280A-4EB9-847F-B315AEFE2F83}</ProjectGuid>
+    <ProjectGuid>{5521B2ED-E085-4BBC-9FAD-A61EB6EAD963}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestApp.HookIn</RootNamespace>
