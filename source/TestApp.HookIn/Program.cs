@@ -10,6 +10,8 @@ namespace TestApp.HookIn
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
+            Console.WriteLine("HI my name is Abeer");
             Console.WriteLine("Hi my name is Nick!");
         }
     }
