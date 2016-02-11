@@ -10,6 +10,7 @@ namespace TestApp.Hookin
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi my name is... Whatever... Nick!");
         }
     }
 }
