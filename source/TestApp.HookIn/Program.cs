@@ -12,6 +12,7 @@ namespace TestApp.HookIn
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("HI my name is Abeer");
+            Console.WriteLine("Hi my name is Nick!");
         }
     }
 }
