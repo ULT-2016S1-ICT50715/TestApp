@@ -17,6 +17,8 @@ namespace TestApp.HookIn
 
             Console.WriteLine("A small commit");
 
+            Console.WriteLine("Hi my name is Michal");
+            Console.WriteLine("Feature E");
         }
     }
 }
